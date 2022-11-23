@@ -1,10 +1,10 @@
 {
   "data": [
 {
-      "admob_interstitial":"ca-app-pub-1848739877572166/2153008786",
-      "admob_native":"ca-app-pub-1848739877572166/7189713046",
-      "admob_banner":"ca-app-pub-1848739877572166/8063811016",
-      "admob_appopen":"ca-app-pub-1848739877572166/1957072824",
+      "admob_interstitial":"/21753324030,22780729941/com.dvd.alldvdremote.tvremote.settopboxremote.acremote_Interstitial",
+      "admob_native":"/21753324030,22780729941/com.dvd.alldvdremote.tvremote.settopboxremote.acremote_Native",
+      "admob_banner":"/21753324030,22780729941/com.dvd.alldvdremote.tvremote.settopboxremote.acremote_Banner",
+      "admob_appopen":"/21753324030,22780729941/com.dvd.alldvdremote.tvremote.settopboxremote.acremote_AppOpen",
       "ispurchaseItem":"1"
 }
 ]
